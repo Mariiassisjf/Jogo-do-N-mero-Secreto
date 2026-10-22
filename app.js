@@ -32,7 +32,7 @@ if (chute == numeroSecreto) {
     if ( chute > numeroSecreto) {
         exibirTextoNaTela ( 'p' , ' O número secreto é menor');
     } else {
-        exibirTextoNaTela( 'P', ' o Número secreto é maior.');
+        exibirTextoNaTela( 'P', ' O Número secreto é maior.');
     } 
    tentativas++;
    limparCampo();
